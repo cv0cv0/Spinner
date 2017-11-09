@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="language_list">
+        <item>C语言</item>
+        <item>Kotlin</item>
+        <item>Java</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>JavaScript</item>
+        <item>Html</item>
+    </string-array>
+</resources>
